@@ -91,7 +91,7 @@ function Footer({ onDonate }) {
         <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center text-xs text-blue-400">
           <p>© 2026 TouchTSL — Protecting the Planet, Caring for Lives.</p>
           <p className="mt-2 md:mt-0">
-            © 2026 Developed by <a href="https://www.trackepay.in" target="_blank" rel="noopener noreferrer" className="text-yellow-400 hover:text-yellow-300 hover:underline transition-all font-bold tracking-wide">TrackePay</a>
+            © 2026 Developed by <a href="https://touch-tsl.vercel.app" target="_blank" rel="noopener noreferrer" className="text-yellow-400 hover:text-yellow-300 hover:underline transition-all font-bold tracking-wide">TouchTSL</a>
           </p>
         </div>
       </div>
