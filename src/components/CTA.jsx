@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const CTA = ({ onVisitHome }) => {
+const CTA = ({ onVisitHome, onVolunteer }) => {
   return (
     <section className="py-12 md:py-24 bg-white relative overflow-hidden">
       <div className="container mx-auto px-6">
@@ -31,7 +31,7 @@ const CTA = ({ onVisitHome }) => {
               </Link>
 
               <button 
-                onClick={onVisitHome}
+                onClick={onVolunteer || onVisitHome}
                 className="group px-8 md:px-12 py-5 md:py-6 bg-white/10 backdrop-blur-md text-white border-2 border-white/30 rounded-[2rem] font-bold text-lg md:text-xl transition-all hover:bg-white/20 hover:scale-105 active:scale-95 flex items-center justify-center gap-4 shadow-xl"
               >
                 Get Involved

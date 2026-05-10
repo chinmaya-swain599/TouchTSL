@@ -63,7 +63,7 @@ function App() {
       <Navbar />
 
       <Routes>
-        <Route path="/" element={<Home onDonate={openDonation} onVisit={openVisit} />} />
+        <Route path="/" element={<Home onDonate={openDonation} onVisit={openVisit} onVolunteer={openVolunteer} />} />
         <Route path="/about" element={<About onVisit={openVisit} />} />
         <Route path="/volunteer" element={<Volunteer onVisit={openVisit} onRegister={openVolunteer} />} />
         <Route path="/contact" element={<Contact onVisit={openVisit} />} />

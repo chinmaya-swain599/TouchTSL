@@ -69,7 +69,7 @@ const Hero = ({ onDonate }) => {
             </div>
             <div>
               <p className="text-yellow-400 text-xl md:text-2xl font-bold">100+</p>
-              <p className="text-white text-[10px] md:text-sm font-medium opacity-90 uppercase tracking-wider">Blood</p>
+              <p className="text-white text-[10px] md:text-sm font-medium opacity-90 uppercase tracking-wider">Blood Units</p>
             </div>
           </div>
         </div>

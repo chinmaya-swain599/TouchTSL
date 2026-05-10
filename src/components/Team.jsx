@@ -11,7 +11,7 @@ const ourTeam = [
   {
     name: "Chinmaya Swain",
     role: "Founder, President & Chief Organiser",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=400&h=400"
+    image: "/founder.jpeg"
   },
   {
     name: "Rakesh Jena",
@@ -26,7 +26,7 @@ const ourTeam = [
   {
     name: "Satyaranjan Samal",
     role: "Govt. & Public Relations Coordinator",
-    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=400&h=400"
+    image: "/coordinator.jpeg"
   },
   {
     name: "Satyabrata Jena",
@@ -41,7 +41,7 @@ const ourTeam = [
   {
     name: "K. Krishna Rao Dora",
     role: "Medical & Health Coordinator",
-    image: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=400&h=400"
+    image: "/doctor.jpeg"
   },
   {
     name: "Ashish Samal",

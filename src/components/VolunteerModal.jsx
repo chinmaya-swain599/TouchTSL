@@ -42,7 +42,7 @@ const VolunteerModal = ({ isOpen, onClose }) => {
       } else {
         setResult(data.message);
       }
-    } catch (error) {
+    } catch {
       setResult("Submission failed. Please try again.");
     } finally {
       setIsSubmitting(false);

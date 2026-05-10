@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import Hero from "../components/Hero";
 import Philosophy from "../components/Philosophy";
 import Services from "../components/Services";
@@ -8,7 +8,7 @@ import Team from "../components/Team";
 import Partners from "../components/Partners";
 import CTA from "../components/CTA";
 
-const Home = ({ onDonate, onVisit }) => {
+const Home = ({ onDonate, onVisit, onVolunteer }) => {
   return (
     <main className="bg-white">
       <Hero onDonate={onDonate} />
@@ -18,7 +18,7 @@ const Home = ({ onDonate, onVisit }) => {
       <Testimonials />
       <Team />
       <Partners />
-      <CTA onVisitHome={onVisit} />
+      <CTA onVisitHome={onVisit} onVolunteer={onVolunteer} />
     </main>
   );
 };

@@ -20,7 +20,9 @@ function Navbar() {
 
   // Close menus on route change
   useEffect(() => {
-    setIsMobileMenuOpen(false);
+    if (isMobileMenuOpen) {
+      setIsMobileMenuOpen(false);
+    }
   }, [location]);
 
   const navLinks = [
