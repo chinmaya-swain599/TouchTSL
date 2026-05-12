@@ -11,7 +11,7 @@ const ourTeam = [
   {
     name: "Chinmaya Swain",
     role: "Founder, President & Chief Organiser",
-    image: "/chinmaya.jpeg"
+    image: "/chinmaya2.jpeg"
   },
   {
     name: "Rakesh Jena",
