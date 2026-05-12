@@ -11,42 +11,42 @@ const ourTeam = [
   {
     name: "Chinmaya Swain",
     role: "Founder, President & Chief Organiser",
-    image: "/founder.jpeg"
+    image: "/chinmaya.jpeg"
   },
   {
     name: "Rakesh Jena",
     role: "Ground Level Operations Head",
-    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=400&h=400"
+    image: "/rakeshjena.jpeg"
   },
   {
     name: "Indradyumna Jena",
     role: "Govt. & Public Relations Head",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400&h=400"
+    image: "/Indradyumna_Jena.jpeg"
   },
   {
     name: "Satyaranjan Samal",
     role: "Govt. & Public Relations Coordinator",
-    image: "/coordinator.jpeg"
+    image: "/satyaranjan.jpeg"
   },
   {
     name: "Satyabrata Jena",
     role: "Blood Donation & Health Coordinator",
-    image: "https://images.unsplash.com/photo-1463453091185-61582044d556?auto=format&fit=crop&q=80&w=400&h=400"
+    image: "/satyabrat_jena.jpeg"
   },
   {
     name: "Bishnu Prasad Ojha",
     role: "Finance & Support Management Head",
-    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=400&h=400"
+    image: "/Bishnu_Prasad_Ojha.jpeg"
   },
   {
     name: "K. Krishna Rao Dora",
     role: "Medical & Health Coordinator",
-    image: "/doctor.jpeg"
+    image: "/kkr.jpeg"
   },
   {
     name: "Ashish Samal",
     role: "Social Media & Awareness Head",
-    image: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=400&h=400"
+    image: "/Ashish_samal.jpeg"
   }
 ];
 
