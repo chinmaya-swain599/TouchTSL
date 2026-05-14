@@ -42,7 +42,7 @@ const servicesData = {
     title: "Animal Care & Support",
     subtitle: "Compassion in Action for Every Living Being",
     description: "TouchTSL is dedicated to the well-being of animals. We provide emergency medical aid, run shelters for abandoned animals, and advocate for stronger animal protection laws to ensure every creature is treated with kindness.",
-    image: "/miracles.jpeg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsAoKpxGq-lsKiPV_qN0472gFCMdDv7KLtQ&s",
     features: [
       {
         title: "Emergency Rescue",
@@ -112,7 +112,7 @@ const servicesData = {
     title: "Student Protection",
     subtitle: "Safeguarding the Future of Our Nation",
     description: "TouchTSL's Student Protection initiative ensures that every child can pursue education in a safe, secure, and supportive environment. We focus on mental health support, physical safety, and protecting students from exploitation.",
-    image: "/activites.jpeg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbesjA49tQBAUY9LvgJkmnUotIKTHJXkVroQ&s",
     features: [
       {
         title: "Mental Health Support",
@@ -182,7 +182,7 @@ const servicesData = {
     title: "Agriculture Support",
     subtitle: "Empowering Farmers, Enriching Rural Life",
     description: "Our Agriculture Support initiative is dedicated to transforming rural livelihoods by promoting sustainable and organic farming. We provide farmers with the knowledge, tools, and resources needed to enhance productivity while preserving the health of the soil and the environment.",
-    image: "/organic1.jpeg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTet89ViWOqJ9IcQjydAQsQSXSnxT6-PHM9aw&s",
     features: [
       {
         title: "Organic Farming",
@@ -217,7 +217,7 @@ const servicesData = {
     title: "Blood Donation Awareness",
     subtitle: "A Gift of Life from One Heart to Another",
     description: "The Blood Donation Awareness program at TouchTSL works to ensure that no life is lost due to the unavailability of blood. We organize regular camps, maintain a registry of voluntary donors, and educate the public on the critical importance of regular donation.",
-    image: "/Contribution.jpeg",
+    image: "https://www.isbr.in/blogs/wp-content/uploads/2024/09/1727178095121-768x1024.jpeg",
     features: [
       {
         title: "Donation Camps",

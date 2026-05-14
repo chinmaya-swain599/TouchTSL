@@ -85,7 +85,7 @@ const MissionVision = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="rounded-3xl overflow-hidden shadow-2xl h-[250px] md:h-[400px] relative group">
             <img 
-              src="/vision.jpeg" 
+              src="https://healtheglobefoundation.org/images/img41.png" 
               alt="TouchTSL Vision" 
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />

@@ -1,10 +1,10 @@
 import React from "react";
 
 const boardMembers = [
-  { name: "Executive Director", role: "Board Member", image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=400&h=400" },
-  { name: "Principal Trustee", role: "Board Member", image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400&h=400" },
-  { name: "Financial Advisor", role: "Trustee", image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=400&h=400" },
-  { name: "Legal Consultant", role: "Trustee", image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=400&h=400" }
+  { name: "CHINMAYA SWAIN", role: "Founder & Chief Organiser", image: "/chinmaya2.jpeg" },
+  { name: "K.KRISHNA RAO DORA", role: "Medical Advisor/Medical Coordinator", image: "/kkr.jpeg" },
+  { name: "ASHISH SAMAL", role: "Social Media & Awareness Head", image: "/Ashish_samal.jpeg" },
+  { name: "BISHNU PRASAD OJHA", role: "Finance & Support Head", image: "/Bishnu_Prasad_Ojha.jpeg" }
 ];
 
 const ourTeam = [
@@ -31,7 +31,7 @@ const ourTeam = [
   {
     name: "Satyabrata Jena",
     role: "Blood Donation & Health Coordinator",
-    image: "/satyabrat_jena.jpeg"
+    image: "/WhatsApp.jpeg"
   },
   {
     name: "Bishnu Prasad Ojha",
@@ -55,7 +55,7 @@ const Team = () => {
     <section id="board-of-directors" className="py-12 md:py-24 bg-white">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16 md:mb-20">
-          <h2 className="text-3xl sm:text-5xl font-bold text-blue-950 mb-6 tracking-tight">Board of <span className="text-yellow-500 italic font-serif">Directors</span> & Trustees</h2>
+          <h2 className="text-3xl sm:text-5xl font-bold text-blue-950 mb-6 tracking-tight">TouchTSL <span className="text-yellow-500 italic font-serif">Core</span> Members</h2>
           <div className="w-24 h-1 bg-yellow-400 mx-auto rounded-full mb-8"></div>
           <p className="text-stone-600 max-w-2xl mx-auto text-lg leading-relaxed">
             Our leadership is driven by purpose, guided by compassion for all living beings, and committed to environmental stewardship.

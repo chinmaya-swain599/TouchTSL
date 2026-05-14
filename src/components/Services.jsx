@@ -24,7 +24,7 @@ const services = [
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
       </svg>
     ),
-    image: "/miracles.jpeg"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsAoKpxGq-lsKiPV_qN0472gFCMdDv7KLtQ&s"
   },
   {
     id: "yoga-meditation",
@@ -48,7 +48,7 @@ const services = [
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
       </svg>
     ),
-    image: "/activites.jpeg"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbesjA49tQBAUY9LvgJkmnUotIKTHJXkVroQ&s"
   },
   {
     id: "blood-donation",
@@ -60,7 +60,7 @@ const services = [
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
       </svg>
     ),
-    image: "/Contribution.jpeg"
+    image: "https://www.isbr.in/blogs/wp-content/uploads/2024/09/1727178095121-768x1024.jpeg"
   },
   {
     id: "agriculture-support",
@@ -72,7 +72,7 @@ const services = [
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
       </svg>
     ),
-    image: "/organic1.jpeg"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTet89ViWOqJ9IcQjydAQsQSXSnxT6-PHM9aw&s"
   },
   {
     id: "health-care",
